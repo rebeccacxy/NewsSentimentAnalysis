@@ -7,4 +7,5 @@ The BERT model performed the best, and obtained a consistent accuracy of ~85%.
 For data preprocessing, I used stemming and lemmatization. The latter performed better in terms of accuracy after being fed into the neural network. 
 
 Overall, I ranked 3rd in the NUS Fintech internal kaggle competition. 
+
 https://www.kaggle.com/c/nus-fintech-news-headline-sentiment-analysis/leaderboard
