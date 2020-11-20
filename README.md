@@ -4,7 +4,7 @@ I used 3 algorithms - BERT using Simple Transformers, Neural Network and Decisio
 
 The BERT model performed the best, and obtained a consistent accuracy of ~85%. 
 
-For data preprocessing, I used stemming and lemmatization. The latter performed better in terms of accuracy after being fed into the neural network. 
+For data preprocessing, stopwords were removed and the stemmed and lemmatized text were derived with NLTK. Lemmatized text performed better than stemmed text in terms of accuracy, after being fed into the neural network. 
 
 Overall, I ranked 3rd in the NUS Fintech internal kaggle competition. 
 
